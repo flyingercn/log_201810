@@ -1,8 +1,7 @@
 # CentOS 7.2 编译 Python 3.7.1 rc2
-
-作者：老农民（刘启华）
-Email: 46715422@qq.com
-***
+    
+    作者：老农民（刘启华）
+    Email: 46715422@qq.com
     
     wget https://www.python.org/ftp/python/3.7.1/Python-3.7.1rc2.tar.xz
     tar xf Python-3.7.1rc2.tar.xz
