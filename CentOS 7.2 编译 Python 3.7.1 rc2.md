@@ -16,8 +16,9 @@
     CC="/usr/local/clang/bin/clang" make install
     cd ../
     
-    设置环境变量
+    #设置环境变量
     vi ~/clang.sh
+    
     alias cc=/usr/local/clang/bin/clang
     alias c++=/usr/local/clang/bin/clang++
     alias cpp=/usr/local/clang/bin/clang-cpp
@@ -28,4 +29,6 @@
     export LDFLAGS='-lc++ -lc++abi'
     export LD_LIBRARY_PATH=/usr/local/lib:/usr/local/gcc8/lib:/usr/local/gcc8/lib64:/usr/local/clang/lib:/usr/local/python37/lib:/usr/local/node/lib:/lib:/usr/lib:/lib64:/usr/lib64:/usr/local/lib64:$LD_LIBRARY_PATH
     export PATH=/bin:/usr/bin:/usr/local/bin:/usr/local/clang/bin:/usr/local/python37/bin:/usr/local/node/bin:$PATH:.
+    
+    . ~/clang.sh
     
