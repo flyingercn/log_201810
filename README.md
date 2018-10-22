@@ -7,5 +7,6 @@
   
 [CentOS 7.2 主机安装 golang 1.11.1](20181019_01.md)   
   
+[CentOS 7.2 编译安装 LLVM 7.0](20181022_01.md)  
   
 ![image](images/二维码.jpg)
