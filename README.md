@@ -9,4 +9,6 @@
   
 [CentOS 7.2 编译安装 LLVM 7.0](20181022_01.md)  
   
+[CentOS 7.2 编译安装 PostgreSQL 11 并开启 JIT](20181022_02.md)  
+  
 ![image](images/二维码.jpg)
